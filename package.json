@@ -1,0 +1,21 @@
+{
+  "name": "ci-cd_pipelines_with_github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test" : "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rehman32/ci-cd_pipelines_with_github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rehman32/ci-cd_pipelines_with_github-actions/issues"
+  },
+  "homepage": "https://github.com/Rehman32/ci-cd_pipelines_with_github-actions#readme",
+  "description": ""
+}
